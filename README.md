@@ -1,2 +1,2 @@
-# JavaScript-L1
- JavaScript-L1
+# JavaScript-practice
+## JavaScript-practice
